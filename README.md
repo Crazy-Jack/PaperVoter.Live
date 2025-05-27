@@ -44,7 +44,7 @@ PaperVoter.Live aims to:
 
 ## 🌐 Live Site
 
-👉 [https://papervoter.live](https://papervoter.live)
+👉 [https://papervote.live](https://papervote.live)
 
 ---
 
